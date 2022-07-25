@@ -1,0 +1,4 @@
+names==0.3.0
+pyautogui==0.9.53
+pyperclip==1.8.2
+win10toast==0.9
